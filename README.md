@@ -25,12 +25,12 @@ If a separate data for each manufacturer is needed you can download it from the 
  ┣ .gitignore </br>
  ┗ README.md </br>
 
- **Folders** 
- *images* - contains all the images of the visualizations used in readme.
- *inputs* - contains all the input files used in the project.
- *models* - contains the .bin files of the different models developed.
- *notebooks* - contains .ipynb notebooks for EDA and model evaluations.
- *src* - contains .py executable files to build the required models. model_dispatcher.py hass all the models in it.
+ **Folders** </br>
+ *images* - contains all the images of the visualizations used in readme.</br>
+ *inputs* - contains all the input files used in the project.</br>
+ *models* - contains the .bin files of the different models developed.</br>
+ *notebooks* - contains .ipynb notebooks for EDA and model evaluations.</br>
+ *src* - contains .py executable files to build the required models. model_dispatcher.py hass all the models in it.</br>
  
  ## EDA
  
